@@ -1,6 +1,7 @@
 ﻿adm/
 _adm_/
 _admin_/
+po-admin/index.php
 _administrator_/
 operator/
 sika/
@@ -11,6 +12,7 @@ author
 admin/
 administrator/
 adminweb/
+
 user/
 users/
 dinkesadmin/
@@ -28,6 +30,7 @@ operator/index.php
 sika/index.php
 develop/index.php
 ketua/index.php
+fingerprint/admin/index.php
 redaktur/index.php
 admin/index.php
 administrator/index.php
