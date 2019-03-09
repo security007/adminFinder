@@ -1,5 +1,6 @@
 #!/usr/bin/python
-import os, sys
+import os
+import sys
 class warna :
 	HIJAU = '\033[92m'
 	KUNING = '\033[33m'
